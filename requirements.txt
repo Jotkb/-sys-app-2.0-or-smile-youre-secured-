@@ -1,0 +1,11 @@
+paramiko
+scapy
+python-nmap
+requests
+yagmail
+keyring
+twilio
+dnspython
+openai
+python-dotenv
+schedule
